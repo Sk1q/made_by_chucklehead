@@ -1,0 +1,19 @@
+#nazi {
+    background-color: chartreuse;
+    width: 40%;
+    float: left;
+}
+#side {
+    background-color: coral;
+    width: 30%;
+    float: left;
+}
+#one {
+    background-color: chartreuse;
+}
+#too {
+    background-color: coral;
+
+}
+#three {
+    background-color: rgb(143, 38, 0);
